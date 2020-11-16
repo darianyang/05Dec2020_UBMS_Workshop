@@ -1,5 +1,4 @@
-# 05Dec2020_UBMS_Workshop
-# Introduction to Jupyter and Python
+# 05Dec2020 UBMS Workshop - Introduction to Jupyter and Python
 
 
 ## Session Topics
