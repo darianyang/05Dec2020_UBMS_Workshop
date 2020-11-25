@@ -10,3 +10,5 @@
     * Variables and Data Types
     * Mathematical Operators
     * Control Flow
+* Python Demonstration
+    * Tic Tac Toe
